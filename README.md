@@ -5,7 +5,7 @@
 
 
 - full stack dev
-- Debugger of my own bugs
+- Debugging of my own bugs
 - DSA
 
  **My stack**
