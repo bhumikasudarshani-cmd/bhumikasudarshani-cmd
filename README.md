@@ -20,9 +20,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark)
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOURSPOTIFYID)
 
-![3D Contrib](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YOURUSERNAME&fontSize=80&animation=fadeIn)
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
