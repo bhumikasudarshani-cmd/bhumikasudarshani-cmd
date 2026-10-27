@@ -4,7 +4,7 @@
 **Things I do at 2am**
 
 
-- Full-stack developer in the making.
+- Full-stack developer by title.
 - Write bugs, fix bugs, create new bugs, and convince myself I’m becoming a better developer.
 - DSA enthusiast (when motivation hits).
 
