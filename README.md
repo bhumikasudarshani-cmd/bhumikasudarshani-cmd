@@ -1,12 +1,11 @@
 # Hi, I'm Bhumika. Currently
+Full-stack developer by title.
 
 
 **Things I do at 2am**
-
-
-- Full-stack developer by title.
-- Write bugs, fix bugs, create new bugs, and convince myself I’m becoming a better developer.
-- DSA enthusiast (when motivation hits).
+- reading documentation.
+- Writing bugs, fixing bugs, creating new bugs, and convincing myself I’m becoming a better developer.
+- DSA  (when motivation hits).
 
  **technologies to my stack that I’ll probably use once**
 
