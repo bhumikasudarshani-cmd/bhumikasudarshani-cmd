@@ -4,11 +4,11 @@
 **Things I do at 2am**
 
 
-- full stack dev
-- Debugging of my own bugs
-- DSA
+- Full-stack developer in the making.
+- Write bugs, fix bugs, create new bugs, and convince myself I’m becoming a better developer.
+- DSA enthusiast (when motivation hits).
 
- **My stack**
+ **technologies to my stack that I’ll probably use once**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
