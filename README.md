@@ -19,3 +19,6 @@ Full-stack developer by title.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 **My** **Portfolio**: https://me.elixpo.com/bhumika
+## 🐟 My Git Koi
+
+<img src="koi/koi.gif" width="256" alt="My Git Koi" />
