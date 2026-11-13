@@ -21,4 +21,3 @@ Full-stack developer by title.
 **My** **Portfolio**: https://me.elixpo.com/bhumika
 
 <img src="koi/koi.gif" width="256" alt="My Git Koi" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false" width="100%" alt="wave footer"/>
