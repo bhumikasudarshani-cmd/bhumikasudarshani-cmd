@@ -21,5 +21,3 @@ Full-stack developer by title.
 **My** **Portfolio**: https://me.elixpo.com/bhumika
 
 <img src="koi/koi.gif" width="256" alt="My Git Koi" />
-
-<img src="koi/koi.gif" width="256" alt="My Git Koi" />
